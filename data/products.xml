@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Дрель</name>
+        <description>Мощная электрическая дрель.</description>
+        <price>3500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Шуруповерт</name>
+        <description>Аккумуляторный шуруповерт с двумя батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Ножницы</name>
+        <description>Аккумуляторный шуруповерт с батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Отвертка</name>
+        <description>Аккумуляторный шуруповерт.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Линейка</name>
+        <description>Аккумуляторный шуруповерт с двумя батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Болгарка</name>
+        <description>Аккумуляторный шуруповерт батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>7</id>
+        <name>Рулетка</name>
+        <description>Аккумуляторный шуруповерт с двумя батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>8</id>
+        <name>Шпатель</name>
+        <description>Аккумуляторный шуруповерт с двумя батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>9</id>
+        <name>Диск болгарки</name>
+        <description>Аккумуляторный шуруповерт с двумя батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+    <product>
+        <id>10</id>
+        <name>Сверло</name>
+        <description>Аккумуляторный шуруповер с батареями.</description>
+        <price>4500</price>
+        <image>img/123.webp</image>
+    </product>
+</products>
